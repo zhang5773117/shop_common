@@ -20,5 +20,5 @@ public interface QgGoodsMapper {
 
 	public void method1()throws  Exception;
 
-
+	public void method3()throws  Exception;
 }
