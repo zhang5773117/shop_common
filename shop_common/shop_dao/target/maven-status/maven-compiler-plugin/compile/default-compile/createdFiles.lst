@@ -1,0 +1,5 @@
+com\zb\mapper\QgOrderMapper.class
+com\zb\mapper\QgGoodsMessageMapper.class
+com\zb\mapper\QgUserMapper.class
+com\zb\mapper\QgGoodsMapper.class
+com\zb\mapper\QgTradeMapper.class

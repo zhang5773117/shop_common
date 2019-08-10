@@ -1,0 +1,4 @@
+com\zb\service\RpcGoodsService.class
+com\zb\service\RpcOrderService.class
+com\zb\service\RpcUserService.class
+com\zb\service\RpcTokenService.class
