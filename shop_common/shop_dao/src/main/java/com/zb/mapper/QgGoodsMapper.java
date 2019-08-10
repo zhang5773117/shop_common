@@ -18,5 +18,7 @@ public interface QgGoodsMapper {
 
 	public Integer updateQgGoods(QgGoods qgGoods)throws Exception;
 
+	public void method1()throws  Exception;
+
 
 }
